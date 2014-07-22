@@ -1,0 +1,5 @@
+name: SpacePirates
+description: A space craft game
+dependencies:
+  browser: any
+  chronosgl: any
